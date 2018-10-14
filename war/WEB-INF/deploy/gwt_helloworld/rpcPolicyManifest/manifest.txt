@@ -1,0 +1,3 @@
+# Module gwt_helloworld
+# RPC service class, partial path of RPC policy file
+ru.antony.client.GreetingService, 3DF7A03A15E22DC5BC3504ED54E0C1CB.gwt.rpc

@@ -1,0 +1,2 @@
+serviceClass: ru.antony.client.GreetingService
+path: 3DF7A03A15E22DC5BC3504ED54E0C1CB.gwt.rpc
